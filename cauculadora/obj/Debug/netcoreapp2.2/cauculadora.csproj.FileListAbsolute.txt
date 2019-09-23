@@ -1,0 +1,11 @@
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\bin\Debug\netcoreapp2.2\cauculadora.deps.json
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\bin\Debug\netcoreapp2.2\cauculadora.runtimeconfig.json
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\bin\Debug\netcoreapp2.2\cauculadora.runtimeconfig.dev.json
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\bin\Debug\netcoreapp2.2\cauculadora.dll
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\bin\Debug\netcoreapp2.2\cauculadora.pdb
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\obj\Debug\netcoreapp2.2\cauculadora.csprojAssemblyReference.cache
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\obj\Debug\netcoreapp2.2\cauculadora.csproj.CoreCompileInputs.cache
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\obj\Debug\netcoreapp2.2\cauculadora.AssemblyInfoInputs.cache
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\obj\Debug\netcoreapp2.2\cauculadora.AssemblyInfo.cs
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\obj\Debug\netcoreapp2.2\cauculadora.dll
+C:\Users\52835603840\Documents\Exercicíos\cauculadora\obj\Debug\netcoreapp2.2\cauculadora.pdb
