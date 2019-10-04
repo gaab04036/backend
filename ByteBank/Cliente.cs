@@ -1,6 +1,6 @@
 using System;
 
-namespace Byte_Bank
+namespace ByteBank
 {
     public class Cliente{ 
 
